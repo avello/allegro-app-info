@@ -1,2 +1,4 @@
-# allegro-app-info
-Cel działania aplikacji Allegro REST API
+# Cel działania aplikacji Allegro REST API
+Zarządzanie ofertami
+Zarządzanie zamówieniami
+Obsługa centrum wiadomości
