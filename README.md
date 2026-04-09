@@ -1,4 +1,4 @@
 # Cel działania aplikacji Allegro REST API
-Zarządzanie ofertami
-Zarządzanie zamówieniami
-Obsługa centrum wiadomości
+- Zarządzanie ofertami
+- Zarządzanie zamówieniami
+- Obsługa centrum wiadomości
